@@ -16,7 +16,7 @@
 ## About The Project
 </br>
 
-![Product Name Screen Shot](./assets/day-planner.gif)
+![Product Name Screen Shot](./Assets/day-planner.gif)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
